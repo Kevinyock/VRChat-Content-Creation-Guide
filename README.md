@@ -1,5 +1,5 @@
 # VRChat Content Creation Guide
-Welcome to the guide to VRChat Contentcreation, whether you are a new contentcreator who want to just started and have noidea what is a shader or a veteran creatorwho wants a reference or want to expandtheir knowledge of content creation. This isthe guide for you
+Welcome to the guide to VRChat Contentcreation, whether you are a new content creator who want to just started and have no idea what is a shader or a veteran creator who wants a reference or want to expand their knowledge of content creation. This is the guide for you
 
 # Chapters
 

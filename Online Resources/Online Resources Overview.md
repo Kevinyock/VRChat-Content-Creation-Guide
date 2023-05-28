@@ -1,0 +1,1 @@
+Here is a list of sites that you can go to that has free/paid resources. Do keep in mind the licenses of those following content to determine if you can use it for. I’ll do what I can to keep this updated. If you find any links that are broken or outdated you can write up an issue and make a Merge Request.

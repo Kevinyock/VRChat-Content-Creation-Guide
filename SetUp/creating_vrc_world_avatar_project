@@ -3,15 +3,43 @@ Setting up a VRChat Project for your Avatar/World is Realtivitly simple.
 1. To start you will need the VRChat Creator Companion for your world/avatar. You need to download it from this link https://vrchat.com/home/download
 The download page itself should look like this:
 
-![VRChat Creator Companion Download Page PNG](./images/VRCCC_Download_Page.png)
+![VRChat Creator Companion Download Page PNG](./Images/VRCCC_Download_Page.png)
 
 2. Download it and save it somewhere you will remember. Once you save it, double click on the set up.and you should see the license agreement shown below. Accept the agreement and click next and It’ll install the VRChat Creator Companion executable.
 
-![VRChat Creator Companion License Agreement](./images/VRCCC_License_Agreement.png)
+![VRChat Creator Companion License Agreement](./Images/VRCCC_License_Agreement.png)
 
 Congratulation, you have successfully installed the VRChat Creator Companion. Now what?
 
-3. The first thing you should see is this image below. In the image below, can be broken up into these pieces.
+3. The first thing you should see is this image below. In the image below, can be broken up into 5 sections: 
+- [Project](../VRChat%20Creator%20Companion/Sections/Projects/Projects.md)
+- [Learn](../VRChat%20Creator%20Companion/Sections/Learn/Learn.md)
+- [Tool](../VRChat%20Creator%20Companion/Sections/Tools/Tools.md)
+- [Logs](../VRChat%20Creator%20Companion/Sections/Logs/Logs.md)
+- [Settings](../VRChat%20Creator%20Companion/Sections/Settings/Settings.md)
 
-![VRChat Creator Companion Start Up Page](./images/VRCCC_Start_Page.png)
+![VRChat Creator Companion Start Up Page](./Images/VRCCC_Start_Page.png)
 
+So the following pieces numbered above are broke up into 5 Sections. We will go over a brief summary of what each of these sections are and what do they do.
+
+1. The project section list all of the projects you've made/added.
+
+![VRChat Creator Companion Projects Section](./Images/VRCCC_Projects_Section.png)
+
+2. The learn Section is where you can learn more information about a particular section
+
+![VRChat Creator Companion Learn Section](./Images/VRCCC_Learn_Section.png)
+
+3. The tools section is where external tools that vrchat refers to that can help you create and test your VRChat Contents
+
+![VRChat Creator Companion Tools Section](./Images/VRCCC_Tools_Section.png)
+
+4. The logs is where you see what is the Creator Companion is doing and can be use to diagnose a problem with a particular project/package.
+
+![VRChat Creator Companion Logs Section](./Images/VRCCC_Logs_Section.png)
+
+5. The setting section is where you can make changes to the Creator Companion
+
+![VRChat Creator Companion Settings Section](./Images/VRCCC_Settings_Section.png)
+
+ More details about what each of these do are listed below 

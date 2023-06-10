@@ -1,0 +1,1 @@
+![VRChat Creator Companion Settings Section](./Images/VRCCC_Settings_Section.png)
